@@ -5,6 +5,13 @@
 
 Narangikart is a hypothetical new Q-commerce enterprise seeking to strategically establish its presence in five major Indian cities: Delhi, Mumbai, Pune, Bengaluru, and Chennai. The platform aims to assess the performance of three competitors — Blinkit, Instamart, and Zepto — based on stock availability, discounts, and price analysis across these five cities.
 
+## Resources
+
+- [Full Report](Report/)
+- [SQL Queries](SQL/)
+- [Power BI Dashboard](Power%20BI/)
+- [Dataset](Data/)
+
 ## Business Questions
 1. What is the stock distribution across all three platforms?
 2. How many observations are discounted on each platform?
